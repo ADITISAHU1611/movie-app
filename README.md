@@ -32,4 +32,4 @@ Create MongoDB database using MongoDB atlas for free.
 run using npm start for both frontend and backend
 
 use API for movies.
-
+![Login Page](screenshots/login.png)
