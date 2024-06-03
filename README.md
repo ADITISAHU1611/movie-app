@@ -32,4 +32,6 @@ Create MongoDB database using MongoDB atlas for free.
 run using npm start for both frontend and backend
 
 use API for movies.
-![Login Page](screenshots/login.png)
+The website is deployed on vercel. Find the link below:
+https://movie-app-smoky-zeta.vercel.app/
+
